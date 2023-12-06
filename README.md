@@ -1,0 +1,2 @@
+# hbase_redis
+基于python GUI使用hbase和redis数据库实现的学生选课系统
